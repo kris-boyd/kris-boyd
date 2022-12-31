@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kris Boyd</h1>
+<h1 align="center">Hi, I'm Kris Boyd</h1>
 <h3 align="center">A full stack web developer and creative technologist</h3>
 
 - 🔭 I’m currently working on [ocean falls](https://netlify.app/ocean-falls)
